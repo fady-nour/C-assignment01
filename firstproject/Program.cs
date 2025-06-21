@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
 
-            #region variableintialize
+
+           #region variableintialize
             //int x;
             //    x= 4;
             //Int32 y = 9;
@@ -16,6 +17,8 @@
             //Console.WriteLine(x);
             //Console.WriteLine(y);
             #endregion
+
+
             #region value type data type
             //point P1;
             //P1 = new point();
