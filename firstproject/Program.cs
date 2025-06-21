@@ -6,7 +6,7 @@
         {
 
 
-           #region variableintialize
+            #region variableintialize
             //int x;
             //    x= 4;
             //Int32 y = 9;
@@ -16,6 +16,23 @@
             ////x=5
             //Console.WriteLine(x);
             //Console.WriteLine(y);
+            #endregion
+            #region value type data type
+            //point P1;
+            //P1 = new point();
+            //point p2 = new point();
+            //P1.x = 1;
+            //P1.y = 2;
+            //p2.x = 3;
+            //p2.y = 4;
+            //Console.WriteLine($"p1 =({P1.x},{P1.y}):");
+            //Console.WriteLine($"p2 = ({p2.x},{p2.y}):");
+            //p2 = P1;
+            //P1.x = 7;
+            //P1.y = 9;
+            //Console.WriteLine($"p1 =({P1.x},{P1.y}):");
+            //Console.WriteLine($"p2 = ({p2.x},{p2.y}):");
+
             #endregion
 
 
