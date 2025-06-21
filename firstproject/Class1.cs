@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace firstproject
 {
+    #region classes
     internal class point
     {
             public int x;
@@ -24,4 +25,5 @@ namespace firstproject
     {
         public int z;
     }
+    #endregion
 }
